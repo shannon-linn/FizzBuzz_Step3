@@ -1,0 +1,15 @@
+.App{
+	overflow:hidden;
+}
+ul.fizzBuzz{
+	list-style: none inside none;
+	font-size: 20px;
+	text-align: center;
+	position: relative;	
+	font-weight: bold;
+}
+ul.fizzBuzz li {
+	float: left;
+	display: block;
+	width: 5%;
+}
